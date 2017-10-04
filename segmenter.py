@@ -1,9 +1,10 @@
 import sys
 
-text=sys.stdin.read()
+text=sys.stdin.readlines()
 
-texta=text.replace('z. B. ', 'b1&')
-textb=texta.replace('. ', '. \n')
-textc=textb.replace('b1&', 'z. B. ')
+for line in text:
+	texta=line.replace('z. B. ', 'b1&')
+	textb=texta.replace('. ', '. \n')
+	textc=textb.replace('b1&', 'z. B. ')
 
-print(textc)   
+	print(textc)   
