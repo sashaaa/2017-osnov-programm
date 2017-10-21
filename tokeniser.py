@@ -13,23 +13,25 @@ for line in text:
 	
 	sentence_id = sentence_id + 1
 	 
-	tekst = line
+	tekst = line.strip()
 	print('# text = %s' % (tekst))
 
 	punctuation = [".", ",", "!", "?"]
 	for mic in punctuation:
 			line=line.replace(mic, " "+ mic)
 	#to change space for a new line
-	texta=line.split (" ")
+	texta=line.strip().split (" ")
 
 	#variable to store the token number
 	f=1
 	
 	for b in texta:
+		if b.strip() == '':
+			continue
 		# col:   0                        1       2  3    4      5     6      7     8      9
 		print(str(f) + "\t"+ b +" \t_	_	_	_	_	_	_	_")
 		f=f+1
-
+	print()
 
 
 
