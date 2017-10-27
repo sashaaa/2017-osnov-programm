@@ -1,0 +1,50 @@
+# sent_id = 1
+# text = Wikipedia ass eng fräi multilingual Enzyklopedie, déi vu Fräiwëllege geschriwwe gëtt an um Wikikonzept baséiert. Enn 2015 gouf et 37.655.345 Artikelen an 289 Sproochen.
+1	Wikipedia 	__	NOUN	_	_	_	_	_
+2	ass 	_	_	VERB	_	_	_	_	_
+3	eng 	_	_	ADJ	_	_	_	_	_
+4	fräi 	_	_	ADJ	_	_	_	_	_
+5	multilingual 	_	ADJ	_	_	_	_	_	_
+6	Enzyklopedie 	_	NOUN	_	_	_	_	_	_
+7	, 	_	_	PUNCT	_	_	_	_	_
+8	déi 	_	_	NUM	_	_	_	_
+9	vu 	_	_	CONJ	_	_	_	_	_
+10	Fräiwëllege 	_	NOUN	_	_	_	_	_	_
+11	geschriwwe 	_	VERB	_	_	_	_	_	_
+12	gëtt 	_	_	VERB	_	_	_	_	_
+13	an 	_	_	PREP	_	_	_	_	_
+14	um 	_	_	ART	_	_	_	_	_
+15	Wikikonzept 	_	NOUN	_	_	_	_	_	_
+16	baséiert 	_	VERB	_	_	_	_	_	_
+17	. 	_	_	PUNCT	_	_	_	_	_
+18	Enn 	_	_	NOUN	_	_	_	_	_
+19	2015 	_	_	NUM	_	_	_	_	_
+20	gouf 	_	_	VERB	_	_	_	_	_
+21	et 	_	_	PREP	_	_	_	_	_
+22	37 	_	_	NUM	_	_	_	_	_
+23	.655 	_	_	NUM	_	_	_	_	_
+24	.345 	_	_	NUM	_	_	_	_	_
+25	Artikelen 	_	NOUN	_	_	_	_	_	_
+26	an 	_	_	PREP	_	_	_	_	_
+27	289 	_	_	NUM	_	_	_	_	_
+28	Sproochen 	_	NOUN	_	_	_	_	_
+29	. 	_	_	_	_	_	_	_	_
+
+# sent_id = 2
+# text = Déi lëtzebuergesch Versioun gouf den 21. Juli 2004 gegrënnt an huet momentan Artikelen.
+1	Déi 	_	_	_	_	_	_	_	_
+2	lëtzebuergesch 	_	_	_	_	_	_	_	_
+3	Versioun 	_	_	_	_	_	_	_	_
+4	gouf 	_	_	_	_	_	_	_	_
+5	den 	_	_	_	_	_	_	_	_
+6	21 	_	_	_	_	_	_	_	_
+7	. 	_	_	_	_	_	_	_	_
+8	Juli 	_	_	_	_	_	_	_	_
+9	2004 	_	_	_	_	_	_	_	_
+10	gegrënnt 	_	_	_	_	_	_	_	_
+11	an 	_	_	_	_	_	_	_	_
+12	huet 	_	_	_	_	_	_	_	_
+13	momentan 	_	_	_	_	_	_	_	_
+14	Artikelen 	_	_	_	_	_	_	_	_
+15	. 	_	_	_	_	_	_	_	_
+
